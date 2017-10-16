@@ -1,6 +1,6 @@
-SET ROLE user_rusnak;
+--SET ROLE user_rusnak;
 --RESET ROLE;
-SELECT * FROM post;
+--SELECT * FROM post;
 
 --GRANT USAGE ON schema forum TO admin_rusnak, moderator_rusnak, user_rusnak, anonim_rusnak
 
